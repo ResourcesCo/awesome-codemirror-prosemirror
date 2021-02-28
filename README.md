@@ -1,2 +1,5 @@
 # awesome-codemirror-prosemirror
-A curated list of awesome CodeMirror &amp; ProseMirror resources
+
+[![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
+
+A curated list of awesome CodeMirror & ProseMirror resources
